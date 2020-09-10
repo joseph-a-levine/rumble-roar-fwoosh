@@ -1,0 +1,6 @@
+Name,Capacity_GEO,Capacity_GTO,Capacity_LEO,Capacity_SSO,MaxThroughput,Operator_Priority1,Operator_Priority2,Operator_Priority3,Operator_Priority4,Operator_Priority5,Operator_Priority6,Operator_Priority7,Operator_Priority8,Operator_Priority9,Operator_Priority10
+LV_1,20000,20000,30000,20000,5,1,2,3,4,5,6,7,8,9,10
+LV_2,0,0,10000,20000,15,5,6,7,1,2,3,4,8,9,10
+LV_3,0,0,30000,0,15,8,9,10,1,2,3,4,6,7,4
+LV_4,10000,10000,20000,10000,10,10,9,8,7,6,5,4,3,2,1
+LV_5,30000,30000,40000,0,3,1,2,3,4,5,6,7,8,9,10
